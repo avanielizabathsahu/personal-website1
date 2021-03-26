@@ -12,19 +12,19 @@ body{
     position: absolute;
     overflow: hidden;
     height:600px;
-    color: aquamarine;
+    color:blueviolet;
     left: 0;
     top: 0;
     right: 0;
     bottom: 0;
     opacity:0.83;
-    background-color:skyblue;
+    background-color: cornflowerblue;
     display: table;
     width: 100%;
     height: 100%
 }
 #bio{
- background-color: deeppink;
+ background-color:darkseagreen;
 padding: 50px;
 text-align: center;
 
@@ -83,5 +83,5 @@ p{
     font-size: 20px;
 }
 .link:hovers{
-    background-color: dodgerblue
+    background-color:blue
 }
